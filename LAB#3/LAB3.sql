@@ -1,0 +1,1 @@
+insert into checkinlog values (0,current_time,"Bhuri","Project22","Computer");
